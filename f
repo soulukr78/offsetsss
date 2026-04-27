@@ -1,5 +1,10 @@
 const long VisualEngine = 0x7746260;
 const int FakeDataModel = 0xa40;
-const int RealDataModel = 0x1c0;
+const int RealDataModel = 0x1d0;
 const int LocalPlayer = 0x130;
 const int Character = 0x398;
+const int FOV = 0x160;
+const int FogEnd = 0x134;
+const int GrassLength = 0x1f8;
+const int GlobalShadows = 0x148;
+const int AtmoDensity = 0xe8;
