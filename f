@@ -15,3 +15,7 @@ GrassLength = 0x1f8
 GlobalShadows = 0x148
 LocalPlayer = 0x130
 Character = 0x398
+ViewMatrix = 0x130
+Name = 0xb0
+Primitive = 0x148
+Position = 0xe4
