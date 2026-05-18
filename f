@@ -1,4 +1,4 @@
-VisualEngine = 0x7bd71f8
+VisualEngine = 0x7bd51f8
 FakeDataModel = 0xa80
 RealDataModel = 0x1d0
 Workspace = 0x178
@@ -19,7 +19,7 @@ ViewMatrix = 0x140
 Name = 0xb0
 Primitive = 0x148
 Position = 0xec
-TaskScheduler = 0x7c00988
+TaskScheduler = 0x7bfe988
 MaxFPS = 0xb0
 JumpPower = 0x1b0
 JumpHeight = 0x1ac
